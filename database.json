@@ -1,18 +1,18 @@
 {
   "settings": {
-    "brand": "Serenade",
+    "brand": "Engagement",
     "logoUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=240&q=80",
     "heroImage": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1800&q=88",
     "heroEyebrow": "Together with our families",
-    "coupleNames": "Clara & Julian",
-    "brideFullName": "Clara Danvers",
-    "groomFullName": "Julian Vance",
+    "coupleNames": "Nurul & Eki",
+    "brideFullName": "Nurul Fadilah",
+    "groomFullName": "Eki Maulana",
     "quote": "In all the world, there is no heart for me like yours.",
-    "intro": "With hearts full of gratitude, we invite you to celebrate the beginning of our forever.",
-    "weddingDate": "2027-10-18T10:00:00+07:00",
-    "dateLabel": "18 October 2027",
-    "venueLine": "Villa Balbiano · Lake Como, Italy",
-    "footerNote": "With love, Clara & Julian",
+    "intro": "With hearts full of joy, we invite you to celebrate our engagement.",
+    "weddingDate": "2026-11-15T10:00:00+07:00",
+    "dateLabel": "15 November 2026",
+    "venueLine": "The Bride's Family Home",
+    "footerNote": "With love, Nurul & Eki",
     "musicUrl": "",
     "qrisImage": "https://placehold.co/360x360/f7f3e9/506051?text=QRIS+CODE",
     "registryTitle": "A Gift from the Heart",
@@ -44,39 +44,27 @@
   ],
   "events": [
     {
-      "id": "ceremony",
+      "id": "Engagement Ceremony",
       "title": "Holy Matrimony",
       "subtitle": "The ceremony",
       "date": "2027-10-18",
       "time": "10:00 AM – 12:00 PM",
-      "venue": "Cathedral of San Giacomo, Bellagio",
-      "address": "Piazza della Chiesa 4, 22021 Bellagio, Como, Italy",
+      "venue": "The Bride's Family Home",
+      "address": "Wisma Jaya | Kota Bekasi . Indonesia",
       "mapsUrl": "https://maps.google.com/?q=Cathedral+of+San+Giacomo+Bellagio",
       "dressCode": "Formal · Sage & earth tones",
-      "description": "A heartfelt ceremony surrounded by family, friends, and the beauty of Lake Como."
-    },
-    {
-      "id": "reception",
-      "title": "Reception & Dinner",
-      "subtitle": "The celebration",
-      "date": "2027-10-18",
-      "time": "5:30 PM – Late",
-      "venue": "Villa Balbiano Lakeside Terrace, Lenno",
-      "address": "Via Comoedia 5, 22010 Ossuccio, Italy",
-      "mapsUrl": "https://maps.google.com/?q=Villa+Balbiano+Lake+Como",
-      "dressCode": "Black tie optional",
-      "description": "An evening of candlelight, a Tuscan-inspired dinner, heartfelt toasts, and dancing beneath the stars."
+      "description": "An intimate gathering and introduction of our extended families"
     }
   ],
   "registry": [
     {
       "bank": "BCA",
-      "accountName": "Clara Danvers",
+      "accountName": "Nurul Fadilah",
       "accountNumber": "1234567890"
     },
     {
       "bank": "Mandiri",
-      "accountName": "Julian Vance",
+      "accountName": "Eki Maulana",
       "accountNumber": "9876543210"
     }
   ],
