@@ -1,0 +1,80 @@
+{
+  "settings": {
+    "brand": "Engagement",
+    "logoUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=240&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1800&q=88",
+    "heroEyebrow": "Together with our families",
+    "coupleNames": "Nurul & Eki",
+    "brideFullName": "Nurul Fadilah",
+    "groomFullName": "Eki Maulana",
+    "quote": "In all the world, there is no heart for me like yours.",
+    "intro": "With hearts full of joy, we invite you to celebrate our engagement.",
+    "weddingDate": "2026-11-15T10:00:00+07:00",
+    "dateLabel": "15 November 2026",
+    "venueLine": "The Bride's Family Home",
+    "footerNote": "With love, Nurul & Eki",
+    "musicUrl": "https://drive.google.com/file/d/1sHjT5BdSZWtlCivhR-lOUWCqBvH5Rofl/view?usp=drive_link",
+    "qrisImage": "https://placehold.co/360x360/f7f3e9/506051?text=QRIS+CODE",
+    "registryTitle": "A Gift from the Heart",
+    "registryNote": "Your presence is the greatest gift. If you wish to honour us with a gift, these details are provided with gratitude.",
+    "theme": "serenade"
+  },
+  "story": [
+    {
+      "date": "Spring 2021",
+      "place": "Milan, Italy",
+      "title": "The First Encounter",
+      "description": "Under the rain-washed colonnades of Piazza del Duomo, two strangers paused beneath the same olive-green umbrella. A shared sketch and two espressos became the beginning of everything.",
+      "image": "https://images.unsplash.com/photo-1511988617509-a57c8a288659?auto=format&fit=crop&w=1000&q=85"
+    },
+    {
+      "date": "Summer 2023",
+      "place": "Tuscany, Italy",
+      "title": "Under the Tuscan Stars",
+      "description": "Between golden hills and long summer evenings, a quiet promise became a beautiful certainty: whatever came next, we would meet it together.",
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=1000&q=85"
+    },
+    {
+      "date": "Autumn 2026",
+      "place": "Lake Como",
+      "title": "The Forever Promise",
+      "description": "At the water’s edge, surrounded by the people we love, we chose a lifetime of ordinary mornings, grand adventures, and unwavering devotion.",
+      "image": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1000&q=85"
+    }
+  ],
+  "events": [
+    {
+      "id": "Engagement Ceremony",
+      "title": "Holy Matrimony",
+      "subtitle": "The ceremony",
+      "date": "2027-10-18",
+      "time": "10:00 AM – 12:00 PM",
+      "venue": "The Bride's Family Home",
+      "address": "Wisma Jaya | Kota Bekasi . Indonesia",
+      "mapsUrl": "https://maps.google.com/?q=Cathedral+of+San+Giacomo+Bellagio",
+      "dressCode": "Formal · Sage & earth tones",
+      "description": "An intimate gathering and introduction of our extended families"
+    }
+  ],
+  "registry": [
+    {
+      "bank": "BCA",
+      "accountName": "Nurul Fadilah",
+      "accountNumber": "1234567890"
+    },
+    {
+      "bank": "Mandiri",
+      "accountName": "Eki Maulana",
+      "accountNumber": "9876543210"
+    }
+  ],
+  "rsvpOptions": {
+    "mealChoices": [
+      "Tuscan Herb Chicken",
+      "Roasted Vegetable Risotto",
+      "Grilled Sea Bass"
+    ]
+  },
+  "guestbook": [],
+  "rsvps": []
+}
